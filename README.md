@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,py,express,git,next,ps,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,py,express,git,next,ps,tailwind,mongodb" />
   </a>
 </p>
