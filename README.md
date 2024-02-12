@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tinarao/tinarao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,py,express,git,next,ps,tailwind" />
+  </a>
+</p>
