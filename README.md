@@ -1,7 +1,7 @@
 # Умею:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,py,express,git,next,ps,tailwind,mongodb,prisma,vite,ableton" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,py,express,next,ps,ableton" />
   </a>
 </p>
 
