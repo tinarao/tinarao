@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=36&duration=7000&pause=4000&random=true&width=435&lines=tinarao)](https://git.io/typing-svg)
 
-<p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tinarao&theme=dark" />
-    <img src="https://www.codewars.com/users/tinarao/badges/large" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinarao)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Умею:
 <p align="left">
