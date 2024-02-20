@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=36&duration=7000&pause=4000&random=true&width=435&lines=tinarao)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost&weight=700&size=72&pause=1000&color=F72C8D&background=14B3FF00&center=true&random=true&width=436&lines=%D0%BA%D1%80%D1%83%D0%B4%D0%BE%D1%88%D0%BB%D1%91%D0%BF)](https://git.io/typing-svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinarao)](https://github.com/anuraghazra/github-readme-stats)
 
