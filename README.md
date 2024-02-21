@@ -6,3 +6,6 @@
     <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,next,go" />
   </a>
 </p>
+<hr />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinarao&theme=tokyonight&layout=donut)
