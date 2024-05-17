@@ -3,7 +3,7 @@
 ### Умею:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,docker,python" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,docker,python,bun" />
   </a>
 </p>
 <hr />
@@ -11,7 +11,7 @@
 ### Пытаюсь разобраться:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,rabbitmq,kafka,k8s,vue,graphql,bun" />
+    <img src="https://skillicons.dev/icons?i=go,rabbitmq,kafka,k8s,vue,graphql" />
   </a>
 </p>
 <hr />
