@@ -1,3 +1,4 @@
+
 <h1 align="center">wannabe-fullstack dev</h1>
 
 ### Умею:
@@ -11,7 +12,7 @@
 ### Пытаюсь разобраться:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,rabbitmq,kafka,k8s,vue,graphql" />
+    <img src="https://skillicons.dev/icons?i=c,go,rabbitmq,kafka,k8s,graphql" />
   </a>
 </p>
 <hr />
