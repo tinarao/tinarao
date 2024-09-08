@@ -4,16 +4,16 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,docker,python,nest,godot,go" />
+    <img src="https://skillicons.dev/icons?i=ts,react,svelte,nodejs,docker,python,nest,godot,go" />
   </a>
 </p>
 <hr />
 
-### Пытаюсь разобраться:
+### Учусь:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,rabbitmq,kafka,k8s,graphql,rust" />
+    <img src="https://skillicons.dev/icons?i=rust,c,vue,k8s,arduino" />
   </a>
 </p>
 <hr />
