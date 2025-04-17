@@ -5,5 +5,3 @@
     <img src="https://skillicons.dev/icons?i=ts,rust,go,react,svelte,tauri,docker,neovim" />
   </a>
 </p>
-
-<hr />
