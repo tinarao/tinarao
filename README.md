@@ -2,6 +2,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,rust,go,react,vue,astro,svelte,tauri,docker,neovim" />
+    <img src="https://skillicons.dev/icons?i=ts,rust,go,elixir,react,vue,astro,svelte,tauri,docker,neovim" />
   </a>
 </p>
