@@ -1,7 +1,5 @@
-<h1 align="center">Идлнаа Иельтчвави</h1>
+# Идлнаа Иельтчвави
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,rust,go,elixir,react,vue,astro,svelte,tauri,docker,neovim" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=ts,elixir,go,react,vue,svelte,tauri,docker,neovim,arch" />
 </p>
